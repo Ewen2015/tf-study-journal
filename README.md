@@ -5,7 +5,7 @@ a study journal for TensorFlow
 1. [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 2. 
 
-### March, 18, 2018
+### March, 18, 2020
 **[ITTFDL: Lesson 4](https://classroom.udacity.com/courses/ud187/lessons/f00868fe-5974-48c4-bf36-41c0372bed64/concepts/3b53415c-f5da-49a0-bb77-c267593157e6)**
 1. **A convolution is the process of applying a filter (“kernel”) to an image.** Max pooling is the process of reducing the size of the image through downsampling.
 
