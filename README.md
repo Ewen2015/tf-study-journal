@@ -9,9 +9,9 @@ a study journal for TensorFlow
 **[ITTFDL: Lesson 4](https://classroom.udacity.com/courses/ud187/lessons/f00868fe-5974-48c4-bf36-41c0372bed64/concepts/3b53415c-f5da-49a0-bb77-c267593157e6)**
 1. **A convolution is the process of applying a filter (“kernel”) to an image.** Max pooling is the process of reducing the size of the image through downsampling.
 2. The model's compile step:
-        - **Loss function** — An algorithm for measuring how far the model's outputs are from the desired output. The goal of training is this measures loss.
-        - **Optimizer** —An algorithm for adjusting the inner parameters of the model in order to minimize loss.
-        - **Metrics** —Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
+    - **Loss function** — An algorithm for measuring how far the model's outputs are from the desired output. The goal of training is this measures loss.
+    - **Optimizer** —An algorithm for adjusting the inner parameters of the model in order to minimize loss.
+    - **Metrics** —Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
 
 - **CNNs**: Convolutional neural network. That is, a network which has at least one convolutional layer. A typical CNN also includes other types of layers, such as pooling layers and dense layers.
 - **Convolution**: The process of applying a kernel (filter) to an image
