@@ -12,6 +12,7 @@ a study journal for TensorFlow
     - **Loss function** — An algorithm for measuring how far the model's outputs are from the desired output. The goal of training is this measures loss.
     - **Optimizer** —An algorithm for adjusting the inner parameters of the model in order to minimize loss.
     - **Metrics** —Used to monitor the training and testing steps. The following example uses accuracy, the fraction of the images that are correctly classified.
+3. [A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
 
 - **CNNs**: Convolutional neural network. That is, a network which has at least one convolutional layer. A typical CNN also includes other types of layers, such as pooling layers and dense layers.
 - **Convolution**: The process of applying a kernel (filter) to an image
