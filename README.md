@@ -5,6 +5,14 @@ a study journal for TensorFlow
 1. [Intro to TensorFlow for Deep Learning](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 2. 
 
+### March, 19, 2020
+**[ITTFDL: Lesson 5](https://classroom.udacity.com/courses/ud187/lessons/1771027d-8685-496f-8891-d7786efb71e1/concepts/ef37d8be-68d7-4265-95ef-7947c18eecf8)**
+1. [Memorizing is not learning! — 6 tricks to prevent overfitting in machine learning](https://hackernoon.com/memorizing-is-not-learning-6-tricks-to-prevent-overfitting-in-machine-learning-820b091dc42)
+
+- **Early Stopping**: In this method, we track the loss on the validation set during the training phase and use it to determine when to stop training such that the model is accurate but not overfitting.
+- **Image Augmentation**: Artificially boosting the number of images in our training set by applying random image transformations to the existing images in the training set.
+- **Dropout**: Removing a random selection of a fixed number of neurons in a neural network during training.
+
 ### March, 18, 2020
 **[ITTFDL: Lesson 4](https://classroom.udacity.com/courses/ud187/lessons/f00868fe-5974-48c4-bf36-41c0372bed64/concepts/3b53415c-f5da-49a0-bb77-c267593157e6)**
 1. **A convolution is the process of applying a filter (“kernel”) to an image.** Max pooling is the process of reducing the size of the image through downsampling.
